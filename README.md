@@ -20,12 +20,12 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    BRIAN LAVOIE // CORE                     ║
+║                    BRIAN LAVOIE // CORE                      ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   IDEA ──────► CODE ──────► SYSTEM ──────► AUTOMATION       ║
-║     │            │             │                │             ║
-║     └────────────┴─────────────┴────────────────┘             ║
+║   IDEA ──────► CODE ──────► SYSTEM ──────► AUTOMATION        ║
+║     │            │             │                │            ║
+║     └────────────┴─────────────┴────────────────┘            ║
 ║                           │                                  ║
 ║                           ▼                                  ║
 ║                    DIGITAL CREATION                          ║
@@ -50,19 +50,19 @@
 │                    NEXUS DIGITAL CORE                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  CORE ENGINE        ████████████████████  100%  ONLINE      │
-│  AI MODULE          ██████████████████░░   94%  ACTIVE      │
-│  AUTOMATION         ███████████████████░   97%  RUNNING     │
-│  DATA ENGINE        █████████████████░░░   91%  ACTIVE      │
-│  CREATIVE ENGINE    ████████████████████  100%  ONLINE      │
+│  CORE ENGINE        ████████████████████  100%  ONLINE       │
+│  AI MODULE          ██████████████████░░   94%  ACTIVE       │
+│  AUTOMATION         ███████████████████░   97%  RUNNING      │
+│  DATA ENGINE        █████████████████░░░   91%  ACTIVE       │
+│  CREATIVE ENGINE    ████████████████████  100%  ONLINE       │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  > Boot sequence........................ COMPLETE            │
-│  > Loading developer modules............. COMPLETE            │
-│  > Connecting digital systems............ CONNECTED           │
-│  > Running automation.................... ACTIVE              │
-│  > Monitoring processes.................. ACTIVE              │
+│  > Loading developer modules............. COMPLETE           │
+│  > Connecting digital systems............ CONNECTED          │
+│  > Running automation.................... ACTIVE             │
+│  > Monitoring processes.................. ACTIVE             │
 │                                                              │
 │  SYSTEM STATUS: ████████████████████████ OPERATIONAL         │
 │                                                              │
@@ -288,7 +288,7 @@ STATUS: ● ALL SYSTEMS OPERATIONAL
 ║  CODE         → CLEAN                                ║
 ║  BUILD        → FAST                                 ║
 ║  TEST         → HARD                                 ║
-║  AUTOMATE     → EVERYTHING POSSIBLE                 ║
+║  AUTOMATE     → EVERYTHING POSSIBLE                  ║
 ║  IMPROVE      → EVERY DAY                            ║
 ║                                                      ║
 ║  MODE: ████████████████████████████ ACTIVE           ║
